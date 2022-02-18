@@ -1,0 +1,7 @@
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\bin\Debug\CreateLOGitpe21.exe.config
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\bin\Debug\CreateLOGitpe21.exe
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\bin\Debug\CreateLOGitpe21.pdb
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\obj\Debug\CreateLOGitpe21.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\obj\Debug\CreateLOGitpe21.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\obj\Debug\CreateLOGitpe21.exe
+C:\Users\marko\source\repos\logitpe21\CreateLOGitpe21\CreateLOGitpe21\obj\Debug\CreateLOGitpe21.pdb
